@@ -5,7 +5,7 @@
 ### 🚀 Software Engineering Undergraduate | Full Stack Developer | Java Enthusiast
 
 💡 Passionate about building scalable applications, solving real-world problems, and continuously learning modern technologies.
-
+</div>
 ---
 
 ### 🌍 About Me
