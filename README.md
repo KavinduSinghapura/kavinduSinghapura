@@ -58,49 +58,6 @@
 * 🍃 MongoDB
 * 🔥 Firebase
 
-### 🧰 Tools & Technologies
-
-* 🐙 Git & GitHub
-* 💻 IntelliJ IDEA
-* 🟩 VS Code
-* 📦 Maven
-* 🐳 Docker (Learning)
-* ☁️ Cloud Technologies (Learning)
-
----
-
-# 🚀 What I'm Currently Learning
-
-🌱 Spring Boot Advanced Concepts
-
-🌱 Microservices Architecture
-
-🌱 Docker & Kubernetes
-
-🌱 AWS Cloud
-
-🌱 System Design
-
-🌱 Clean Architecture
-
----
-
-# 💼 Featured Projects
-
-🛒 E-Commerce Platform
-
-💬 Chat Application
-
-👨‍💼 Employee Management System
-
-📚 Library Management System
-
-📱 Android Applications
-
-📦 REST API Projects
-
----
-
 # 🎯 What I Love
 
 ✅ Backend Development
