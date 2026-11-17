@@ -55,10 +55,10 @@ Software Engineering Undergraduate
 
 ### 🗄️ Databases
 
-* 🐬 MySQL
-* 🐘 PostgreSQL
-* 🍃 MongoDB
-* 🔥 Firebase
+* MySQL
+* PostgreSQL
+* MongoDB
+* Firebase
 
 # 🎯 What I Love
 
