@@ -1,15 +1,15 @@
-# 👋 Hi there, I'm **Kavindu Singhapura**
+# Hi there, I'm **Kavindu Singhapura**
 
 
 
-### 🚀 Software Engineering Undergraduate | Full Stack Developer | Java Enthusiast
+### Software Engineering Undergraduate | Full Stack Developer | Java Enthusiast
 
-💡 Passionate about building scalable applications, solving real-world problems, and continuously learning modern technologies.
+Passionate about building scalable applications, solving real-world problems, and continuously learning modern technologies.
 
 
-### 🌍 About Me
+### About Me
 
-🎓 Software Engineering Undergraduate
+Software Engineering Undergraduate
 
 💻 Passionate Full Stack Developer
 
@@ -23,33 +23,35 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 👨‍💻 Programming Languages
 
-* ☕ Java
-* 💛 JavaScript
-* 🔷 TypeScript
-* 🐘 PHP
+* Python
+* Java
+* JavaScript
+* TypeScript
+* PHP
 
 ### 🌐 Frontend Development
 
-* ⚛️ React.js
-* 🎨 HTML5
-* 🎨 CSS3
-* 💨 Tailwind CSS
-* 🅱️ Bootstrap
+* React.js
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
 
 ### 🔥 Backend Development
 
-* 🍃 Spring Boot
-* 🛡️ Hibernate
-* 🔗 REST APIs
+* Node.js
+* Express.js
+* Hibernate
+* REST APIs
 
 ### 📱 Mobile Development
 
-* 📱 React Native
-* 🤖 Android Development
+* React Native
+* Android Development
 
 ### 🗄️ Databases
 
